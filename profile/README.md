@@ -1,17 +1,21 @@
 <img alt="zdj" src="https://i.imgur.com/K8Ccvyf.jpg">
 
-# **Witaj!**
+# **Hi!**
 
-Szukałeś serwera który pomoże ci z wykonaniem twojego projektu? To dobrze trafiłeś! <br>
-**void.markets** to serwer, który jest pełen **freelancerów z doświadczeniem** którzy pomogą ci odnieść sukces!
+Were you looking for a server that will help you with your project? Then you've come to the right place! <br>
+**void.markets** is a server that is packed with **experienced freelancers** to help you succeed!
 
-## **W naszej flocie znajdziesz**:
-- :movie_camera: Edytorów
-- :art: Grafików
-- :floppy_disk: Developerów
-- :earth_americas: Pomoc Techniczną w Konfiguracji
+## **In our team you can find**:
+- :movie_camera: Editors
+- :art: Graphics Designers
+- :floppy_disk: Developers
+- :earth_americas: Tech Support
+- :construction_site: Builders
+- :frame_photo: Website Conceptors
+- :satellite_orbital: Social Media Management
+- :printer: 3D Print on Demand
 
-A każdy produkt/usługę znajdziesz w **dopasowanej do klienta cenie**.
-**Więc na co czekasz? Stwórz z nami twój wymarzony projekt już dziś!**
+Each product/service can be found at a **price tailored to the customer**. <br>
+**So what are you waiting for? Create project of your dreams with us today!**
 
-:link: Zaproszenie: https://discord.com/invite/ymZZSu649N
+:link: Invite: https://dc.void.markets/
