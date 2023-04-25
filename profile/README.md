@@ -10,9 +10,9 @@ Were you looking for a server that will help you with your project? Then you've 
 - :art: Graphics Designers
 - :floppy_disk: Developers
 - :earth_americas: Tech Support
-- :construction_site: Builders
-- :frame_photo: Website Conceptors
-- :satellite_orbital: Social Media Management
+- 🏗️ Builders
+- 🖼️ Website Conceptors
+- 🛰️ Social Media Management
 - :printer: 3D Print on Demand
 
 Each product/service can be found at a **price tailored to the customer**. <br>
