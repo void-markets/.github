@@ -18,4 +18,4 @@ Were you looking for a server that will help you with your project? Then you've 
 Each product/service can be found at a **price tailored to the customer**. <br>
 **So what are you waiting for? Create project of your dreams with us today!**
 
-:link: Invite: https://discord.gg/voidmarkets/
+:link: Invite: https://discord.gg/voidmarkets
